@@ -14,7 +14,9 @@
 ## Exercises
 
 * [Lab Environment](https://labs.xwaay.net/)
-* [Cloud Essentials: Create Virtual Machine](https://google.qwiklabs.com/focuses/3563?parent=catalog)
+* Google Cloud Essentials:
+    * [Enroll to the 'Quest'](https://google.qwiklabs.com/quests/23) 
+    * [Create Virtual Machine](https://google.qwiklabs.com/focuses/3563?parent=catalog)
 
 ## Homework
 
