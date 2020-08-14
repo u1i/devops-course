@@ -15,7 +15,7 @@
 
 * [Lab Environment](https://labs.xwaay.net/)
 * Google Cloud Essentials:
-    * [Enroll to the 'Quest'](https://google.qwiklabs.com/quests/23) 
+    * [Enroll in the 'Quest'](https://google.qwiklabs.com/quests/23) 
     * [Create Virtual Machine](https://google.qwiklabs.com/focuses/3563?parent=catalog)
 
 ## Homework
