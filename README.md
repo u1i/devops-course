@@ -1,15 +1,20 @@
 # DevOps Course
 
+## Office Hours
+
+* [Schedule a Conversation](https://calendly.com/uli-nus/devops-office-hours)
+
 ## Links
 
 * [LinkedIn Profile](https://www.linkedin.com/in/uhitzel/)
 * [DevOps Telegram Channel](https://t.me/devopsupdates)
+* [Qwiklabs Sign-Up](ht	tps://bit.ly/free-qwiklabs2020)
 
 
 ## Exercises
 
 * [Lab Environment](https://labs.xwaay.net/)
-* [Cloud Essentials](https://google.qwiklabs.com/quests/23)
+* [Cloud Essentials: Create Virtual Machine](https://google.qwiklabs.com/focuses/3563?parent=catalog)
 
 ## Homework
 
