@@ -8,7 +8,7 @@
 
 * [LinkedIn Profile](https://www.linkedin.com/in/uhitzel/)
 * [DevOps Telegram Channel](https://t.me/devopsupdates)
-* [Qwiklabs Sign-Up](ht	tps://bit.ly/free-qwiklabs2020)
+* [Qwiklabs Sign Up](https://bit.ly/free-qwiklabs2020)
 
 
 ## Exercises
