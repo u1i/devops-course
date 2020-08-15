@@ -1,6 +1,6 @@
 # Ubuntu
 
-create_user=devops2
+create_user=devops
 useradd $create_user
 mkdir /home/$create_user
 mkdir /home/$create_user/.ssh
