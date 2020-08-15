@@ -9,6 +9,7 @@
 * [LinkedIn Profile](https://www.linkedin.com/in/uhitzel/)
 * [DevOps Telegram Channel](https://t.me/devopsupdates)
 * [Qwiklabs Sign Up](https://bit.ly/free-qwiklabs2020)
+* [Google Cloud Shell](https://console.cloud.google.com/home/dashboard?cloudshell=true)
 
 
 ## Exercises
