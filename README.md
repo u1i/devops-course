@@ -21,6 +21,7 @@
     * 2 - [Deploy on Kubernetes](https://google.qwiklabs.com/focuses/878?parent=catalog)
 * [Docker Hello](https://github.com/u1i/docker-hello)
 * [NodeJS API in Docker](https://github.com/u1i/nodejs-test)
+* [GitHub Actions Example](https://github.com/u1i/ghactions-test)
 
 ## Homework
 
