@@ -18,6 +18,8 @@
 * Google Cloud Essentials:
     * [Enroll in the 'Quest'](https://google.qwiklabs.com/quests/23) 
     * [Create Virtual Machine](https://google.qwiklabs.com/focuses/3563?parent=catalog)
+    * [Deploy on Kubernetes](https://google.qwiklabs.com/focuses/878?parent=catalog)
+* [Docker Hello](https://github.com/u1i/docker-hello)
 
 ## Homework
 
