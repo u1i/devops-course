@@ -17,8 +17,8 @@
 * [Lab Environment](https://labs.xwaay.net/)
 * Google Cloud Essentials:
     * [Enroll in the 'Quest'](https://google.qwiklabs.com/quests/23) 
-    * [Create Virtual Machine](https://google.qwiklabs.com/focuses/3563?parent=catalog)
-    * [Deploy on Kubernetes](https://google.qwiklabs.com/focuses/878?parent=catalog)
+    * 1 - [Create Virtual Machine](https://google.qwiklabs.com/focuses/3563?parent=catalog)
+    * 2 - [Deploy on Kubernetes](https://google.qwiklabs.com/focuses/878?parent=catalog)
 * [Docker Hello](https://github.com/u1i/docker-hello)
 
 ## Homework
@@ -26,11 +26,20 @@
 ### Day 1
 
 * Database assignment (download from LumiNUS) – Reshma
+* Practise: working with Git repositories
 * Reading:
     * [What is Git & How to Use It](https://www.freecodecamp.org/news/what-is-git-and-how-to-use-it-c341b049ae61/)
     * [Git Guide](https://rogerdudler.github.io/git-guide/)
     * [Docker Introduction](https://medium.com/zero-equals-false/docker-introduction-what-you-need-to-know-to-start-creating-containers-8ffaf064930a)
 
 ### Day 2
+* Assignment: Qwiklabs Kubernetes (see Exercise 2 above). Submit screenshot in your GitHub in a repo called 'day2-homework'
+* Reading:
 
 ### Day 3
+
+## Suggested Reading
+
+* [DevOps Basics](https://www.ddls.com.au/wp-content/uploads/2018/05/devops-the-basics-v1-r1.0.pdf)
+* [Agile & Scrum](https://www.cprime.com/resources/what-is-agile-what-is-scrum/)
+
