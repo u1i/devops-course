@@ -32,7 +32,7 @@
 * Practise: working with Git repositories
 * Reading:
     * [What is Git & How to Use It](https://www.freecodecamp.org/news/what-is-git-and-how-to-use-it-c341b049ae61/)
-    * [Git Guide](https://rogerdudler.github.io/git-guide/)
+    * [GitHub First Steps](https://guides.github.com/activities/hello-world/) | [Git Guide](https://rogerdudler.github.io/git-guide/)
     * [Docker Introduction](https://medium.com/zero-equals-false/docker-introduction-what-you-need-to-know-to-start-creating-containers-8ffaf064930a)
 
 ### Day 2
