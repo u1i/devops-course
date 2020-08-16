@@ -10,6 +10,7 @@
 * [DevOps Telegram Channel](https://t.me/devopsupdates)
 * [Qwiklabs Sign Up](https://bit.ly/free-qwiklabs2020)
 * [Google Cloud Shell](https://console.cloud.google.com/home/dashboard?cloudshell=true)
+* [Google Cloud Shell with Editor](https://ssh.cloud.google.com/cloudshell/editor?hl=en_GB&fromcloudshell=true)
 
 
 ## Exercises
