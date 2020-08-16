@@ -20,7 +20,7 @@ You have recently joined a consultancy firm that helps companies with digital tr
 ## Tips & Guidelines 
 
 * What service exactly does BCM Pte Ltd offer to end users? Expense / insurance claims, tuition bookings, food delivery? Choose one of these or come up with your own idea
-* Give a couple of recommendations on modern technology that the company could use and explain why
+* Give a couple of recommendations on modern technology components that the company could use and explain why
 * The people & processes part is very important
 * Make assumptions about the things you learned about the company in the discovery workshop. Current IT setup, teams, programming languages, databases etc.
 * Your deck should have a maximum of 8 slides
