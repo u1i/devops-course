@@ -36,9 +36,8 @@
     * [Docker Introduction](https://medium.com/zero-equals-false/docker-introduction-what-you-need-to-know-to-start-creating-containers-8ffaf064930a)
 
 ### Day 2
-* Assignment: Qwiklabs Kubernetes (see Exercise 2 above). Submit screenshot in your GitHub in a repo called 'day2-homework'
-* Prepare for Day 3: using your Google Cloud Credits, provision a small virtual machine
-    * Location: Singapore
+* Assignment: Qwiklabs Kubernetes (see Exercise 2 above). Submit screenshot in your GitHub in a repo called 'day2-homework'. Post the link to the repo in Luminus.
+* Prepare for Day 3: using your Google Cloud Credits, provision a small virtual machine* Location: Singapore
     * Type g1-small (1 vCPU, 1.7 GB Memory)
     * Boot Disk: Ubuntu 18.04 TLS
     * Firewall: Allow HTTP Traffic
@@ -47,6 +46,8 @@
     * [What is Ansible?](https://acadgild.com/blog/what-is-ansible)
 
 ### Day 3
+
+* Projects
 
 ## Suggested Reading
 
