@@ -17,11 +17,11 @@
 
 * [Lab Environment](https://labs.xwaay.net/)
 * Google Cloud Essentials:
-    * [Enroll in the 'Quest'](https://google.qwiklabs.com/quests/23) 
+    * [Enroll in the 'Quest'](https://google.qwiklabs.com/quests/23)
     * 1 - [Create Virtual Machine](https://google.qwiklabs.com/focuses/3563?parent=catalog)
     * 2 - [Deploy on Kubernetes](https://google.qwiklabs.com/focuses/878?parent=catalog)
 * [Docker Hello](https://github.com/u1i/docker-hello)
-* [NodeJS API in Docker](https://github.com/u1i/nodejs-test)
+* [NodeJS API in Docker](https://github.com/u1i/nodejs-api)
 * [GitHub Actions Example](https://github.com/u1i/ghactions-test)
 
 ## Homework
@@ -53,4 +53,3 @@
 
 * [DevOps Basics](https://www.ddls.com.au/wp-content/uploads/2018/05/devops-the-basics-v1-r1.0.pdf)
 * [Agile & Scrum](https://www.cprime.com/resources/what-is-agile-what-is-scrum/)
-
