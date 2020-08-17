@@ -25,6 +25,7 @@
 * [GitHub Actions Example](https://github.com/u1i/ghactions-test)
 * [ARM Templates](https://github.com/u1i/azure-arm
 )
+* [Ansible Exercise](https://github.com/u1i/ansible-exercise)
 
 ## Homework
 
