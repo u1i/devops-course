@@ -1,5 +1,11 @@
 # Ubuntu
 
+if [ "$USER" != "root" ]
+then
+  echo "ERROR: must be run as root. Please type in: sudo su -"
+  exit 1
+fi
+
 create_user=devops
 useradd $create_user
 mkdir /home/$create_user
