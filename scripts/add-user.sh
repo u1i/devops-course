@@ -2,7 +2,7 @@
 
 if [ "$USER" != "root" ]
 then
-  echo "ERROR: must be run as root. Please type in: sudo su -"
+  echo "ERROR: must be run as root."
   exit 1
 fi
 
