@@ -47,7 +47,11 @@
 
 ### Day 3
 
-* Projects
+* Projects – choose one of the following
+    * [BCM Pte Ltd.](./projects/bcm.md)
+    * [CI/CD](./projects/tech.md )
+* Post the link to your repo or deck in the Google Sheet
+* Get ready to present at the Show & Tell!
 
 ## Suggested Reading
 
