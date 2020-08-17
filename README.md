@@ -23,6 +23,8 @@
 * [Docker Hello](https://github.com/u1i/docker-hello)
 * [NodeJS API in Docker](https://github.com/u1i/nodejs-api)
 * [GitHub Actions Example](https://github.com/u1i/ghactions-test)
+* [ARM Templates](https://github.com/u1i/azure-arm
+)
 
 ## Homework
 
