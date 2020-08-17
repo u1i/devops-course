@@ -15,3 +15,5 @@ cat ../keys/devops.pub >> /home/$create_user/.ssh/authorized_keys
 chmod go-rwx /home/$create_user/.ssh
 chmod go-rwx /home/$create_user/.ssh/authorized_keys
 chown -R $create_user:$create_user /home/$create_user
+
+apt-get -y install python
