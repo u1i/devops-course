@@ -26,6 +26,7 @@
 * [ARM Templates](https://github.com/u1i/azure-arm
 )
 * [Ansible Exercise](https://github.com/u1i/ansible-exercise)
+* [GCP Deployment Manager](https://google.qwiklabs.com/focuses/863?parent=catalog)
 
 ## Homework
 
