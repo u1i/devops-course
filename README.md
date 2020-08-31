@@ -11,6 +11,7 @@
 * [Qwiklabs Sign Up](https://bit.ly/free-qwiklabs2020)
 * [Google Cloud Shell](https://console.cloud.google.com/home/dashboard?cloudshell=true)
 * [Google Cloud Shell with Editor](https://ssh.cloud.google.com/cloudshell/editor?hl=en_GB&fromcloudshell=true)
+* [MongoDB Cloud](https://www.mongodb.com/cloud/atlas/lp/try2)
 
 
 ## Exercises
@@ -41,7 +42,7 @@
     * [Docker Introduction](https://medium.com/zero-equals-false/docker-introduction-what-you-need-to-know-to-start-creating-containers-8ffaf064930a)
 
 ### Day 2
-* Assignment: Qwiklabs Kubernetes (see Exercise 2 above). Submit screenshot in your GitHub in a repo called 'day2-homework'. Post the link to the repo in a Google Sheet (you will have received the link).
+* Assignment: Qwiklabs Kubernetes (see Exercise 2 above). Submit screenshot in your GitHub in a repo called 'day2-homework'. Post the link to the repo in Luminus.
 * Prepare for Day 3: using your Google Cloud Credits, provision a small virtual machine* Location: Singapore
     * Type g1-small (1 vCPU, 1.7 GB Memory)
     * Boot Disk: Ubuntu 18.04 TLS
