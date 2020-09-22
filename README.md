@@ -34,15 +34,13 @@
 
 ### Day 1
 
-* Database assignment (download from LumiNUS) – Reshma
-* Practise: working with Git repositories
 * Reading:
     * [What is Git & How to Use It](https://www.freecodecamp.org/news/what-is-git-and-how-to-use-it-c341b049ae61/)
     * [GitHub First Steps](https://guides.github.com/activities/hello-world/) | [Git Guide](https://rogerdudler.github.io/git-guide/)
     * [Docker Introduction](https://medium.com/zero-equals-false/docker-introduction-what-you-need-to-know-to-start-creating-containers-8ffaf064930a)
 
 ### Day 2
-* Assignment: Qwiklabs Kubernetes (see Exercise 2 above). Submit screenshot in your GitHub in a repo called 'day2-homework'. Post the link to the repo in Luminus.
+
 * Prepare for Day 3: using your Google Cloud Credits, provision a small virtual machine* Location: Singapore
     * Type g1-small (1 vCPU, 1.7 GB Memory)
     * Boot Disk: Ubuntu 18.04 TLS
