@@ -21,6 +21,7 @@
     * [Enroll in the 'Quest'](https://google.qwiklabs.com/quests/23)
     * 1 - [Create Virtual Machine](https://google.qwiklabs.com/focuses/3563?parent=catalog)
     * 2 - [Deploy on Kubernetes](https://google.qwiklabs.com/focuses/878?parent=catalog)
+* [MongoDB Getting Started](https://github.com/u1i/mongodb-getting-started)
 * [Docker Hello](https://github.com/u1i/docker-hello)
 * [NodeJS API in Docker](https://github.com/u1i/nodejs-api)
 * [GitHub Actions Example](https://github.com/u1i/ghactions-test)
