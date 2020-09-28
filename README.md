@@ -42,7 +42,8 @@
 
 ### Day 2
 
-* Prepare for Day 3: using your Google Cloud Credits, provision a small virtual machine* Location: Singapore
+* Prepare for Day 3: using your Google Cloud Credits, provision a small virtual machine
+    * Location: Singapore
     * Type g1-small (1 vCPU, 1.7 GB Memory)
     * Boot Disk: Ubuntu 18.04 TLS
     * Firewall: Allow HTTP Traffic
