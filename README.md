@@ -9,6 +9,7 @@
 * [LinkedIn Profile](https://www.linkedin.com/in/uhitzel/)
 * [DevOps Telegram Channel](https://t.me/devopsupdates)
 * [Qwiklabs Sign Up](https://bit.ly/free-qwiklabs2020)
+* [Google Cloud Console](https://console.cloud.google.com/)
 * [Google Cloud Shell](https://console.cloud.google.com/home/dashboard?cloudshell=true)
 * [Google Cloud Shell with Editor](https://ssh.cloud.google.com/cloudshell/editor?hl=en_GB&fromcloudshell=true)
 * [MongoDB Cloud](https://www.mongodb.com/cloud/atlas/lp/try2)
@@ -16,21 +17,21 @@
 
 ## Exercises
 
-* [Lab Environment](https://labs.xwaay.net/)
-* Google Cloud Essentials:
-    * [Enroll in the 'Quest'](https://google.qwiklabs.com/quests/23)
-    * 1 - [Create Virtual Machine](https://google.qwiklabs.com/focuses/3563?parent=catalog)
-    * 2 - [Deploy on Kubernetes](https://google.qwiklabs.com/focuses/878?parent=catalog)
-* [MongoDB Getting Started](https://github.com/u1i/mongodb-getting-started)
-* [Docker Hello](https://github.com/u1i/docker-hello)
-* [NodeJS API in Docker](https://github.com/u1i/nodejs-api)
-* [GitHub Actions Example](https://github.com/u1i/ghactions-test)
-* [ARM Templates](https://github.com/u1i/azure-arm
+* [1] [Lab Environment](https://labs.xwaay.net/)
+* [2] Google Cloud Essentials:
+    * [3] [Enroll in the 'Quest'](https://google.qwiklabs.com/quests/23)
+    * [4] - [Create Virtual Machine](https://google.qwiklabs.com/focuses/3563?parent=catalog)
+    * [5] - [Deploy on Kubernetes](https://google.qwiklabs.com/focuses/878?parent=catalog)
+* [6] [MongoDB Getting Started](https://github.com/u1i/mongodb-getting-started)
+* [7] [Docker Hello](https://github.com/u1i/docker-hello)
+* [8] [NodeJS API in Docker](https://github.com/u1i/nodejs-api)
+* [9] [GitHub Actions Example](https://github.com/u1i/ghactions-test)
+* [10] [ARM Templates](https://github.com/u1i/azure-arm
 )
-* [Ansible Exercise](https://github.com/u1i/ansible-exercise)
-* [GCP Deployment Manager](https://google.qwiklabs.com/focuses/863?parent=catalog)
-* [Try Azure App Service](https://azure.microsoft.com/en-us/try/app-service/)
-* [Netlify CMS](https://github.com/u1i/gatsby-starter-netlify-cms)
+* [11] [Ansible Exercise](https://github.com/u1i/ansible-exercise)
+* [12] [GCP Deployment Manager](https://google.qwiklabs.com/focuses/863?parent=catalog)
+* [13] [Try Azure App Service](https://azure.microsoft.com/en-us/try/app-service/)
+* [14] [Netlify CMS](https://github.com/u1i/gatsby-starter-netlify-cms)
 
 ## Homework
 
