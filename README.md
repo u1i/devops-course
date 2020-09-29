@@ -46,7 +46,7 @@
 * Prepare for Day 3: using your Google Cloud Credits, provision a small virtual machine
     * Location: Singapore
     * Type g1-small (1 vCPU, 1.7 GB Memory)
-    * Boot Disk: Ubuntu 18.04 TLS
+    * Boot Disk: Ubuntu 18.04 LTS
     * Firewall: Allow HTTP Traffic
 * Reading:
     * [Infrastructure-As-Code](https://medium.com/@FedakV/infrastructure-as-code-devops-principle-meaning-benefits-use-cases-a4461a1fef2)
