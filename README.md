@@ -30,6 +30,7 @@
 * [Ansible Exercise](https://github.com/u1i/ansible-exercise)
 * [GCP Deployment Manager](https://google.qwiklabs.com/focuses/863?parent=catalog)
 * [Try Azure App Service](https://azure.microsoft.com/en-us/try/app-service/)
+* [Netlify CMS](https://github.com/u1i/gatsby-starter-netlify-cms)
 
 ## Homework
 
