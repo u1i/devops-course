@@ -56,10 +56,10 @@
 ### Day 3
 
 * Projects – choose one of the following
-    * [BCM Pte Ltd.](./projects/bcm.md)
-    * [CI/CD](./projects/tech.md )
+    * [BCM Pte Ltd.](./projects/bcm.md) --> your deliverable is a slide deck
+    * [CI/CD](./projects/tech.md ) --> your deliverable is a GitHub repository with code & descriptions
 * Post the link to your repo or deck in Luminus
-* Email the link to the slides / repo to uli@nus.edu.sg **before** the session
+* Email your material to uli@nus.edu.sg **before** the session
 * Get ready to present at the Show & Tell!
 
 ## Suggested Reading
