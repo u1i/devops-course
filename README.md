@@ -57,11 +57,16 @@
 ### Day 3
 
 * Projects – choose one of the following
-    * [BCM Pte Ltd.](./projects/bcm.md) --> your deliverable is a slide deck
-    * [CI/CD](./projects/tech.md ) --> your deliverable is a GitHub repository with code & descriptions
-* Post the link to your repo or deck in Luminus
-* Email your material to uli@nus.edu.sg **before** the session
+    * (1) [BCM Pte Ltd.](./projects/bcm.md) --> your deliverable is a slide deck
+    * (2) [CI/CD](./projects/tech.md ) --> your deliverable is a GitHub repository with code & descriptions
+* Submit to uli@nus.edu.sg by 11:59 pm the night before the session:
+	* a slide deck – if you chose project (1)
+	* a link to a public GitHub repo – if you chose project (2)
 * Get ready to present at the Show & Tell!
+* If you are not able to join the session, record a short video (max 5 minutes) where you:
+	* assume you're speaking to an executive panel (the customer) – if you chose project (1)
+	* show what you built & talk about your approach – if you chose project (2)
+	* submission deadline for the video is before the start of the scheduled Show & Tell session
 
 ## Suggested Reading
 
