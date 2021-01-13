@@ -53,7 +53,7 @@
     * Firewall: Allow HTTP Traffic
 * Reading:
     * [Infrastructure-As-Code](https://medium.com/@FedakV/infrastructure-as-code-devops-principle-meaning-benefits-use-cases-a4461a1fef2)
-    * [What is Ansible?](https://acadgild.com/blog/what-is-ansible)
+    * [What is Ansible?](https://opensource.com/resources/what-ansible)
 
 ### Day 3
 
