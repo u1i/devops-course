@@ -6,13 +6,13 @@
 
 ## Links
 
-* [LinkedIn Profile](https://www.linkedin.com/in/uhitzel/)
-* [DevOps Telegram Channel](https://t.me/devopsupdates)
-* [Qwiklabs Sign Up](https://bit.ly/free-qwiklabs2020)
-* [Google Cloud Console](https://console.cloud.google.com/)
-* [Google Cloud Shell](https://console.cloud.google.com/home/dashboard?cloudshell=true)
-* [Google Cloud Shell with Editor](https://ssh.cloud.google.com/cloudshell/editor?hl=en_GB&fromcloudshell=true)
-* [MongoDB Cloud](https://www.mongodb.com/cloud/atlas/lp/try2)
+* [A] [LinkedIn Profile](https://www.linkedin.com/in/uhitzel/)
+* [B] [DevOps Telegram Channel](https://t.me/devopsupdates)
+* [C] [Qwiklabs Sign Up](https://bit.ly/free-qwiklabs2020)
+* [D] [Google Cloud Console](https://console.cloud.google.com/)
+* [E] [Google Cloud Shell](https://console.cloud.google.com/home/dashboard?cloudshell=true)
+* [F] [Google Cloud Shell with Editor](https://ssh.cloud.google.com/cloudshell/editor?hl=en_GB&fromcloudshell=true)
+* [G] [MongoDB Cloud](https://www.mongodb.com/cloud/atlas/lp/try2)
 
 
 ## Exercises
@@ -37,7 +37,7 @@
 
 ### Day 1
 
-* ( Reshma's MongoDB assignment -> Luminus )
+* Reshma's MongoDB assignment -> Luminus
 * Create Virtual Machine – Qwiklabs exercise, see links above
 * Reading:
     * [What is Git & How to Use It](https://www.freecodecamp.org/news/what-is-git-and-how-to-use-it-c341b049ae61/)
