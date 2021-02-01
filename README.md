@@ -38,7 +38,6 @@
 ### Day 1
 
 * Reshma's MongoDB assignment -> Luminus
-* Create Virtual Machine – Qwiklabs exercise, see links above
 * Reading:
     * [What is Git & How to Use It](https://www.freecodecamp.org/news/what-is-git-and-how-to-use-it-c341b049ae61/)
     * [GitHub First Steps](https://guides.github.com/activities/hello-world/) | [Git Guide](https://rogerdudler.github.io/git-guide/)
