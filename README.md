@@ -59,6 +59,9 @@
 * Projects – choose one of the following
     * (1) [BCM Pte Ltd.](./projects/bcm.md) --> your deliverable is a slide deck
     * (2) [CI/CD](./projects/tech.md ) --> your deliverable is a GitHub repository with code & descriptions
+
+* One project per student, no group work
+
 * Submit to uli@nus.edu.sg by 11:59 pm the night before the session:
 	* a slide deck – if you chose project (1)
 	* a link to a public GitHub repo – if you chose project (2)
