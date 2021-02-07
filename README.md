@@ -17,7 +17,7 @@
 
 ## Exercises
 
-* [1] [Lab Environment](https://labs.xwaay.net/)
+* [1] [Google Qwiklabs](https://www.qwiklabs.com/)
 * [2] Google Cloud Essentials:
     * [3] [Enroll in the 'Quest'](https://google.qwiklabs.com/quests/23)
     * [4] - [Create Virtual Machine](https://google.qwiklabs.com/focuses/3563?parent=catalog)
