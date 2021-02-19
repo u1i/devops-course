@@ -32,6 +32,7 @@
 * [12] [GCP Deployment Manager](https://google.qwiklabs.com/focuses/863?parent=catalog)
 * [13] [Try Azure App Service](https://azure.microsoft.com/en-us/try/app-service/)
 * [14] [Netlify CMS](https://github.com/u1i/gatsby-starter-netlify-cms)
+* [15] [k3s Exercise](https://github.com/u1i/k3s-quickstart)
 
 ## Homework
 
