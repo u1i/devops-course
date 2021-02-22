@@ -72,7 +72,9 @@
 	* show what you built & talk about your approach – if you chose project (2)
 	* submission deadline for the video is before the start of the scheduled Show & Tell session
 
-## Suggested Reading
+## Suggested Videos & Reading
 
+
+* [MongoDB 5 min explainer video](https://www.youtube.com/watch?v=EE8ZTQxa0AM)
 * [DevOps Basics](https://www.ddls.com.au/wp-content/uploads/2018/05/devops-the-basics-v1-r1.0.pdf)
 * [Agile & Scrum](https://www.cprime.com/resources/what-is-agile-what-is-scrum/)
