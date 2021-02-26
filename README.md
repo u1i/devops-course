@@ -74,7 +74,7 @@
 
 ## Suggested Videos & Reading
 
-
+* [Scrum 7 min explainer video](https://www.youtube.com/watch?v=9TycLR0TqFA)
 * [MongoDB 5 min explainer video](https://www.youtube.com/watch?v=EE8ZTQxa0AM)
 * [DevOps Basics](https://www.ddls.com.au/wp-content/uploads/2018/05/devops-the-basics-v1-r1.0.pdf)
 * [Agile & Scrum](https://www.cprime.com/resources/what-is-agile-what-is-scrum/)
