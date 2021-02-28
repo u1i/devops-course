@@ -33,6 +33,7 @@
 * [13] [Try Azure App Service](https://azure.microsoft.com/en-us/try/app-service/)
 * [14] [Netlify CMS](https://github.com/u1i/gatsby-starter-netlify-cms)
 * [15] [k3s Exercise](https://github.com/u1i/k3s-quickstart)
+* [16] [Docker Hello – Auto Build](https://github.com/u1i/docker-hello-autobuild)
 
 ## Homework
 
