@@ -40,24 +40,12 @@
 
 ### Day 1
 
-* Reshma's MongoDB assignment -> Luminus
 * Reading:
     * [What is Git & How to Use It](https://www.freecodecamp.org/news/what-is-git-and-how-to-use-it-c341b049ae61/)
     * [GitHub First Steps](https://guides.github.com/activities/hello-world/) | [Git Guide](https://rogerdudler.github.io/git-guide/)
-    * [Docker Introduction](https://medium.com/zero-equals-false/docker-introduction-what-you-need-to-know-to-start-creating-containers-8ffaf064930a)
 
-### Day 2
 
-* Prepare for Day 3: using your Google Cloud Credits, provision a small virtual machine
-    * Location: Singapore
-    * Type g1-small (1 vCPU, 1.7 GB Memory)
-    * Boot Disk: Ubuntu 18.04 LTS
-    * Firewall: Allow HTTP Traffic
-* Reading:
-    * [Infrastructure-As-Code](https://medium.com/@FedakV/infrastructure-as-code-devops-principle-meaning-benefits-use-cases-a4461a1fef2)
-    * [What is Ansible?](https://opensource.com/resources/what-ansible)
-
-### Day 3
+### Show & Tell
 
 * Projects – choose one of the following
     * (1) [BCM Pte Ltd.](./projects/bcm.md) --> your deliverable is a slide deck
