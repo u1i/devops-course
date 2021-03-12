@@ -69,7 +69,8 @@
 * [DevOps Basics](https://www.ddls.com.au/wp-content/uploads/2018/05/devops-the-basics-v1-r1.0.pdf)
 * [Agile & Scrum](https://www.cprime.com/resources/what-is-agile-what-is-scrum/)
 
-## Tools
+## Tools & References
 
 * [Scrumblr – simple Kanban board](http://scrumblr.ca/)
 * [Flyin Donut – free scrumban tool](https://www.flyingdonut.io/)
+* [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
