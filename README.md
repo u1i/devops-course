@@ -36,16 +36,55 @@
 * [16] [Docker Hello – Auto Build](https://github.com/u1i/docker-hello-autobuild)
 * [17] [Kubernetes in Google Cloud Shell](https://shell.cloud.google.com/?walkthrough_tutorial_url=https%3A%2F%2Fwalkthroughs.googleusercontent.com%2Fcontent%2Fgke_cloud_code_create_app%2Fgke_cloud_code_create_app.md&show=ide&environment_deployment=ide)
 
-## Homework
+## Course Outline & Suggested Material for Preparation
 
-### Day 1
+![](resources/overview01.png)
 
-* Reading:
-    * [What is Git & How to Use It](https://www.freecodecamp.org/news/what-is-git-and-how-to-use-it-c341b049ae61/)
-    * [GitHub First Steps](https://guides.github.com/activities/hello-world/) | [Git Guide](https://rogerdudler.github.io/git-guide/)
+### Day 1 (half day)
 
+* Modern Application Design – The Big Picture
+* Why DevOps?
+* Cloud Computing
+* Git
 
-### Show & Tell
+#### Videos
+
+* [What is DevOps? (2 min)](https://www.youtube.com/watch?v=aFWi8ToAjpU)
+* [Cloud Computing Defined (2 min)](https://www.youtube.com/watch?v=ZnGzxV_dQeg)
+* [What is Git? (2 min)](https://www.youtube.com/watch?v=2ReR1YJrNOM)
+
+#### Material
+
+* [Cloud Computing Explained (ZDNet)](https://www.zdnet.com/article/what-is-cloud-computing-everything-you-need-to-know-about-the-cloud/)
+* [What is Git & How to Use It](https://www.freecodecamp.org/news/what-is-git-and-how-to-use-it-c341b049ae61/)
+* [GitHub First Steps](https://guides.github.com/activities/hello-world/) | [Git Guide](https://rogerdudler.github.io/git-guide/)
+
+### Day 2 (Full Day)
+
+* Recap: The Need for DevOps, Cloud Computing, Git
+* CI/CD, Pipelines
+* Kanban, Agile & Scrum
+* Containers & Kubernetes
+* Automation & Infrastructure-as-Code
+
+#### Videos
+
+* [CI/CD Explained in 100 Seconds (2 min)](https://www.youtube.com/watch?v=scEDHsr3APg)
+* [Scrum 7 min explainer video](https://www.youtube.com/watch?v=9TycLR0TqFA)
+* [Docker in 100 Seconds](https://www.youtube.com/watch?v=Gjnup-PuquQ)
+* [Kubernetes in 100 Seconds](https://www.youtube.com/watch?v=PziYflu8cB8)
+* [Infrastructure-as-Code (3 min)](https://www.youtube.com/watch?v=RO7VcUAsf-I)
+
+#### Material
+
+* [DevOps Basics](https://www.ddls.com.au/wp-content/uploads/2018/05/devops-the-basics-v1-r1.0.pdf)
+* [What's Agile & Scrum?](https://www.cprime.com/resources/what-is-agile-what-is-scrum/)
+* [Docker Introduction](https://medium.com/zero-equals-false/docker-introduction-what-you-need-to-know-to-start-creating-containers-8ffaf064930a)
+* [What's GitHub Actions?](https://itnext.io/getting-started-with-github-actions-fe94167dbc6d)
+
+### Day 3 (Show & Tell)
+
+The stage is yours!
 
 * Projects – choose one of the following
     * (1) [BCM Pte Ltd.](./projects/bcm.md) --> your deliverable is a slide deck
@@ -62,16 +101,10 @@
 	* show what you built & talk about your approach – if you chose project (2)
 	* submission deadline for the video is before the start of the scheduled Show & Tell session
 
-## Suggested Videos & Reading
-
-* [What's Agile & Scrum?](https://www.cprime.com/resources/what-is-agile-what-is-scrum/)
-* [Scrum 7 min explainer video](https://www.youtube.com/watch?v=9TycLR0TqFA)
-* [MongoDB 5 min explainer video](https://www.youtube.com/watch?v=EE8ZTQxa0AM)
-* [DevOps Basics](https://www.ddls.com.au/wp-content/uploads/2018/05/devops-the-basics-v1-r1.0.pdf)
-* [Agile & Scrum](https://www.cprime.com/resources/what-is-agile-what-is-scrum/)
-
 ## Tools & References
 
 * [Scrumblr – simple Kanban board](http://scrumblr.ca/)
 * [Flyin Donut – free scrumban tool](https://www.flyingdonut.io/)
 * [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* [MongoDB 5 min explainer video](https://www.youtube.com/watch?v=EE8ZTQxa0AM)
+
