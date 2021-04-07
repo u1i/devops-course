@@ -38,7 +38,7 @@
 
 ## Course Outline & Suggested Material for Preparation
 
-![](resources/overview01.png)
+![](resources/overview02.png)
 
 ### Day 1 (half day)
 
