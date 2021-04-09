@@ -92,7 +92,7 @@ The stage is yours!
 
 * One project per student, no group work
 
-	* The descriptions are vague on purpose and meant to inspire your creativity & give you freedom to do build a project based on your ideas, interest, and level of technical debt.
+	* The descriptions are vague on purpose and meant to inspire your creativity & give you freedom to build a project based on your ideas, interest, and level of technical debt.
 	* Try your best not to think of the project as 'homework submission', but your chance to apply what you learned
 	* For the technical project: much more important than actual coding miracles is clearly showing & illustrating what you are trying to achieve, which steps you take, and what the desired outcome is (README.md). If you can make automated (parts!) of the CI/CD workflow happen, even better! Clone and adapt some of the examples from the course to get you started!
 
