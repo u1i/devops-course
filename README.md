@@ -88,9 +88,13 @@ The stage is yours!
 
 * Projects – choose one of the following
     * (1) [BCM Pte Ltd.](./projects/bcm.md) --> your deliverable is a slide deck
-    * (2) [CI/CD](./projects/tech.md ) --> your deliverable is a GitHub repository with code & descriptions
+    * (2) [CI/CD](./projects/tech.md ) --> your deliverable is a GitHub repository with code & descriptions. No slides!
 
 * One project per student, no group work
+
+	* The descriptions are vague on purpose and meant to inspire your creativity & give you freedom to do build a project based on your ideas, interest, and level of technical debt.
+	* Try your best not to think of the project as 'homework submission', but your chance to apply what you learned
+	* For the technical project: much more important than actual coding miracles is clearly showing & illustrating what you are trying to achieve, which steps you take, and what the desired outcome is (README.md). If you can make automated (parts!) of the CI/CD workflow happen, even better! Clone and adapt some of the examples from the course to get you started!
 
 * Submit to uli@nus.edu.sg by 11:59 pm the night before the session:
 	* a slide deck – if you chose project (1)
@@ -100,6 +104,7 @@ The stage is yours!
 	* assume you're speaking to an executive panel (the customer) – if you chose project (1)
 	* show what you built & talk about your approach – if you chose project (2)
 	* submission deadline for the video is before the start of the scheduled Show & Tell session
+	* how to record such a video? Get on a Zoom call with yourself, press record, share the screen and you're in business.
 
 ## Tools & References
 
