@@ -96,11 +96,11 @@ The stage is yours!
 	* Try your best not to think of the project as 'homework submission', but your chance to apply what you learned
 	* For the technical project: much more important than actual coding miracles is clearly showing & illustrating what you are trying to achieve, which steps you take, and what the desired outcome is (README.md). If you can make automated (parts!) of the CI/CD workflow happen, even better! Clone and adapt some of the examples from the course to get you started!
 
-* Submit to uli@nus.edu.sg by 11:59 pm the night before the session:
+* Submit to uli@nus.edu.sg by 8pm the night before the session:
 	* a slide deck – if you chose project (1)
 	* a link to a public GitHub repo – if you chose project (2)
 * Get ready to present at the Show & Tell!
-* If you are not able to join the session, record a short video (max 5 minutes) where you:
+* Attendance is compulsory. If you have a valid reason why you are not able to join the session, record a short video (max 5 minutes) where you:
 	* assume you're speaking to an executive panel (the customer) – if you chose project (1)
 	* show what you built & talk about your approach – if you chose project (2)
 	* submission deadline for the video is before the start of the scheduled Show & Tell session
