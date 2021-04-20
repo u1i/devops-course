@@ -100,6 +100,7 @@ The stage is yours!
 * Submit by email to uli@nus.edu.sg by 8pm the night before the session:
 	* a slide deck – if you chose project (1)
 	* a link to a public GitHub repo – if you chose project (2)
+	* make sure your email includes your full name
 * Get ready to present at the Show & Tell! In the interest of time we will use ONE laptop where we run all slides & projects from
 * Attendance is compulsory. If you have a valid reason why you are not able to join the Show & Tell session, you are expected to record a short video (max 5 minutes) where you:
 	* assume you're speaking to an executive panel (the customer) – if you chose project (1)
