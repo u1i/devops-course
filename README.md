@@ -114,3 +114,7 @@ The stage is yours!
 * [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 * [MongoDB 5 min explainer video](https://www.youtube.com/watch?v=EE8ZTQxa0AM)
 
+## Other Material & Links
+
+* [What is Ethereum? A Beginner's Explanation in Plain English
+ (11 min)](https://www.youtube.com/watch?v=jxLkbJozKbY)
