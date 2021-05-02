@@ -97,15 +97,14 @@ The stage is yours!
 	* For the BCM project: assume you're speaking to an executive panel (the customer) in that session
 	* For the technical project: much more important than actual coding miracles is clearly showing & illustrating what you are trying to achieve, which steps you take, and what the desired outcome is (README.md). If you can make automated (parts!) of the CI/CD workflow happen, even better! Clone and adapt some of the examples from the course to get you started!
 
-* Submit by email to uli@nus.edu.sg by 8pm the night before the session:
+* Submit into the 'Show & Tell' folder in LumiNUS by 8pm the night before the session:
 	* a slide deck – if you chose project (1)
-	* a link to a public GitHub repo – if you chose project (2)
-	* make sure your email includes your full name
+	* a text file containing a link to a public GitHub repo – if you chose project (2)
 * Get ready to present at the Show & Tell! In the interest of time we will use ONE laptop where we run all slides & projects from
 * Attendance is compulsory. If you have a valid reason why you are not able to join the Show & Tell session, you are expected to record a short video (max 5 minutes) where you:
 	* assume you're speaking to an executive panel (the customer) – if you chose project (1)
 	* show what you built & talk about your approach – if you chose project (2)
-	* how to record such a video? Get on a Zoom call with yourself, press record, share the screen and you're in business.
+	* how to record such a video? Get on a Zoom call with yourself, press record, share the screen and you're in business. After that, upload the file to LumiNUS.
 
 ## Tools & References
 
