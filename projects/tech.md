@@ -17,6 +17,9 @@ Pushing new commits to the repository should trigger a workflow that does someth
     * Application Source Code
     * Workflow(s)
     * README.md (or any other document) that explains the outcome, your steps, and your thought process
-* Start with an empty (or initialized) GitHub repository. As you implement and make changes, do a commit + push each time 
+* Start with an empty (or initialized) GitHub repository. As you implement and make changes, do a commit + push each time
+* What are we looking to see? You're free to take this into any direction you would like as long as it fulfills these two things:
+	* Some action is triggered once someone commits a change in the repository
+	* The GitHub repo link (and README.md file) gives sufficient explanation of what you're trying to achieve, your learning, the steps you take etc.
 
 

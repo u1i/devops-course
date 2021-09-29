@@ -23,7 +23,5 @@ You have recently joined a consultancy firm that helps companies with digital tr
 * Give a couple of recommendations on modern technology components that the company could use and explain why
 * The people & processes part is very important
 * Make assumptions about the things you learned about the company in the discovery workshop. Current IT setup, teams, programming languages, databases etc.
+* Your presentation is to the customer directly, you should imagine them in the room, not your boss or teacher :)
 * Your deck should have a maximum of 8 slides
-
-
-
