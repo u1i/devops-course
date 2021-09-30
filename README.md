@@ -120,3 +120,4 @@ The stage is yours!
  (11 min)](https://www.youtube.com/watch?v=jxLkbJozKbY)
 * [Blockchain 101 Visual Demo](https://www.youtube.com/watch?v=_160oMzblY8)
 * [Free Subdomains for your GitHub Pages etc](https://freedns.afraid.org/)
+* [Using Git with VS Code](https://code.visualstudio.com/docs/editor/versioncontrol)
