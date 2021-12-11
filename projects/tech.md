@@ -19,8 +19,8 @@ The GitHub repository should contain your application code, along with workflows
 
 You're free to take this into any direction you would like as long as it fulfills these two things:
 
-* Some action is triggered once someone commits a change in the repository
-* The GitHub repo link (and README.md file) gives sufficient explanation of what you're trying to achieve, your learning, the steps you take etc.
+* some action is triggered once someone commits a change in the repository
+* the GitHub repo link (and README.md file) gives sufficient explanation of what you're trying to achieve, your learning, the steps you take etc.
 
 It's much more important to have a self-explanatory README.md with diagrams, screenshots etc that show your thought process, what you're looking to achieve instead of superb, but undocumented automation magic.
 
