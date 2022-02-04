@@ -1,4 +1,5 @@
 # DevOps Course
+# :)
 
 ## Office Hours
 
