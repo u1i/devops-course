@@ -2,7 +2,7 @@
 
 ## Office Hours
 
-* [Schedule a Conversation](https://calendly.com/speak-with-uli/30-min-catch-up?month=2021-10)
+* [Schedule a Conversation](https://calendly.com/uli-hitzel/catchup-30-min)
 
 ## Links
 
