@@ -2,8 +2,7 @@
 
 ## Office Hours
 
-* [Schedule a Conversation](uli@partner.nus.edu.sg)
-
+* [Schedule a Conversation]()
 ## Links
 
 * [A] [LinkedIn Profile](https://www.linkedin.com/in/uhitzel/)
