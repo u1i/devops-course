@@ -2,7 +2,7 @@
 
 ## Office Hours
 
-* [Schedule a Conversation](https://calendly.com/uli-hitzel/catchup-30-min)
+* [Schedule a Conversation](uli@partner.nus.edu.sg)
 
 ## Links
 
