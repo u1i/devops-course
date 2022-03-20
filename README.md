@@ -78,6 +78,7 @@
 #### Material
 
 * [DevOps Basics](https://ddls.com.ph/wp-content/uploads/2018/05/devops-the-basics-v1-r1.0.pdf)
+* [What is CI/CD?](https://circleci.com/continuous-integration/)
 * [What's Agile & Scrum?](https://www.cprime.com/resources/what-is-agile-what-is-scrum/)
 * [Docker Introduction](https://medium.com/zero-equals-false/docker-introduction-what-you-need-to-know-to-start-creating-containers-8ffaf064930a)
 * [What's GitHub Actions?](https://itnext.io/getting-started-with-github-actions-fe94167dbc6d)
