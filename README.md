@@ -3,6 +3,7 @@
 ## Office Hours
 
 * [Schedule a Conversation]()
+
 ## Links
 
 * [A] [LinkedIn Profile](https://www.linkedin.com/in/uhitzel/)
@@ -82,6 +83,7 @@
 * [What's Agile & Scrum?](https://www.cprime.com/resources/what-is-agile-what-is-scrum/)
 * [Docker Introduction](https://medium.com/zero-equals-false/docker-introduction-what-you-need-to-know-to-start-creating-containers-8ffaf064930a)
 * [What's GitHub Actions?](https://itnext.io/getting-started-with-github-actions-fe94167dbc6d)
+* [Learn Git Branching](https://learngitbranching.js.org/)
 
 ### Day 3 (Show & Tell)
 
