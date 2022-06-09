@@ -2,7 +2,7 @@
 
 ## Office Hours
 
-* [Schedule a Conversation]()
+* [Schedule a Conversation](email.png)
 
 ## Links
 
