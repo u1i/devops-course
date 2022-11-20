@@ -39,7 +39,19 @@
 
 ## Course Outline & Suggested Material for Preparation
 
+In this course, we look at the architecture and building blocks of modern, distributed systems, and introduce the core concepts of DevOps including people, tools, and processes. Students will learn about iterative release management, pipelines, CI/CD, version control systems, containerization, configuration management, infrastructure-as-code and gain hands-on experience with Git, Docker, Kubernetes, CI/CD frameworks, and the cloud.
+
 ![](resources/overview02.png)
+
+At the end of the course, participants will be able to:
+
+* Architect Modern Distributed Systems
+* Understand DevOps Concepts: People, Tools, Processes
+* Gain Hands-On Knowledge: Distributed Version Control with Git
+* Provision and Work with Cloud Computing Resources
+* Understand and apply agile project management methods such as Agile and Scrum
+* Pipelines, Containerization of Code, Orchestration of Containers with Kubernetes
+* Infrastructure as Code and Automation
 
 ### Day 1 (half day)
 
