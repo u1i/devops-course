@@ -45,13 +45,13 @@ In this course, we look at the architecture and building blocks of modern, distr
 
 At the end of the course, participants will be able to:
 
-* Architect Modern Distributed Systems
-* Understand DevOps Concepts: People, Tools, Processes
-* Gain Hands-On Knowledge: Distributed Version Control with Git
-* Provision and Work with Cloud Computing Resources
+* Architect modern distributed systems
+* Understand DevOps concepts: people, tools, processes
+* Gain hands-on knowledge: distributed version control with Git
+* Provision and work with cloud computing resources
 * Understand and apply agile project management methods such as Agile and Scrum
-* Pipelines, Containerization of Code, Orchestration of Containers with Kubernetes
-* Infrastructure as Code and Automation
+* Pipelines, containerization of code, orchestration of containers with Kubernetes
+* Infrastructure-as-Code and automation
 
 ### Day 1 (half day)
 
