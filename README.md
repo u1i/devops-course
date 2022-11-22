@@ -36,7 +36,7 @@
 * [16] [Docker Hello – Auto Build](https://github.com/u1i/docker-hello-autobuild)
 * [17] [Kubernetes in Google Cloud Shell](https://shell.cloud.google.com/?walkthrough_tutorial_url=https%3A%2F%2Fwalkthroughs.googleusercontent.com%2Fcontent%2Fgke_cloud_code_create_app%2Fgke_cloud_code_create_app.md&show=ide&environment_deployment=ide)
 * [18] [scrumblr](https://github.com/aliasaria/scrumblr) | [Containerized Version](https://github.com/u1i/scrumblr-docker)
-* [19] [ubuntu](https://github.com/u1i/ubuntu-novnc)
+* [19] [Ubuntu NoVNC Desktop](https://github.com/u1i/ubuntu-novnc)
 
 ## Course Outline & Suggested Material for Preparation
 
