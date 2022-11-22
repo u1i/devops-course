@@ -91,6 +91,7 @@ At the end of the course, participants will be able to:
 #### Material
 
 * [DevOps Basics](https://online-pmo.com/wp-content/Education/Learning%20DevOps.pdf)
+* [DevOps for Dummies](https://athena.ecs.csus.edu/~buckley/CSc233/DevOps_for_Dummies.PDF)
 * [What is CI/CD?](https://circleci.com/continuous-integration/)
 * [What's Agile & Scrum?](https://www.cprime.com/resources/what-is-agile-what-is-scrum/)
 * [Docker Introduction](https://medium.com/zero-equals-false/docker-introduction-what-you-need-to-know-to-start-creating-containers-8ffaf064930a)
