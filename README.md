@@ -20,8 +20,8 @@
 * [1] [Google Qwiklabs](https://www.qwiklabs.com/)
 * [2] Google Cloud Essentials:
     * [3] [Enroll in the 'Quest'](https://google.qwiklabs.com/quests/23)
-    * [4] - [Create Virtual Machine](https://google.qwiklabs.com/focuses/3563?parent=catalog)
-    * [5] - [Deploy on Kubernetes](https://google.qwiklabs.com/focuses/878?parent=catalog)
+    * [4] [Create Virtual Machine](https://google.qwiklabs.com/focuses/3563?parent=catalog)
+    * [5] [Deploy on Kubernetes](https://google.qwiklabs.com/focuses/878?parent=catalog)
 * [6] [MongoDB Getting Started](https://github.com/u1i/mongodb-getting-started)
 * [7] [Docker Hello](https://github.com/u1i/docker-hello)
 * [8] [NodeJS API in Docker](https://github.com/u1i/nodejs-api)
@@ -40,7 +40,7 @@
 
 ## Course Outline & Suggested Material for Preparation
 
-In this course, we look at the architecture and building blocks of modern, distributed systems, and introduce the core concepts of DevOps including people, tools, and processes. Students will learn about iterative release management, pipelines, CI/CD, version control systems, containerization, configuration management, infrastructure-as-code and gain hands-on experience with Git, Docker, Kubernetes, CI/CD frameworks, and the cloud.
+In this course, we will look at the architecture and building blocks of modern, distributed systems, and you will be introduced to the core concepts of DevOps including people, tools, and processes. Students will learn about iterative release management, pipelines, CI/CD, version control systems, containerization, configuration management, infrastructure-as-code and gain hands-on experience with Git, Docker, Kubernetes, CI/CD frameworks, and the cloud.
 
 ![](resources/overview02.png)
 
@@ -129,6 +129,8 @@ The stage is yours!
 * [Flyin Donut – free scrumban tool](https://www.flyingdonut.io/)
 * [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 * [MongoDB 5 min explainer video](https://www.youtube.com/watch?v=EE8ZTQxa0AM)
+* [MIRO - free collaboration tool](https://miro.com)
+* [MURAL - free collaboration tool](https://mural.co)
 
 ## Other Material & Links
 
