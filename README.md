@@ -37,7 +37,7 @@
 * [17] [Kubernetes in Google Cloud Shell](https://shell.cloud.google.com/?walkthrough_tutorial_url=https%3A%2F%2Fwalkthroughs.googleusercontent.com%2Fcontent%2Fgke_cloud_code_create_app%2Fgke_cloud_code_create_app.md&show=ide&environment_deployment=ide)
 * [18] [scrumblr](https://github.com/aliasaria/scrumblr) | [Containerized Version](https://github.com/u1i/scrumblr-docker)
 * [19] [Ubuntu NoVNC Desktop](https://github.com/u1i/ubuntu-novnc)
-* [20] [Deploy Container on Google Cloud Run](https://github.com/u1i/deploy-container-google-cloud-run)
+* [20] [Deploy Container on Google Cloud Run](https://github.com/u1i/docker-google-cloud-run)
 
 ## Course Outline & Suggested Material for Preparation
 
