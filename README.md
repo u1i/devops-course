@@ -141,5 +141,3 @@ The stage is yours!
 * [Free Subdomains for your GitHub Pages etc](https://freedns.afraid.org/)
 * [Using Git with VS Code](https://code.visualstudio.com/docs/editor/versioncontrol)
 * [AI research – GPT-3](https://apigeek.net/#openai--gpt-3)
-
-test 123
