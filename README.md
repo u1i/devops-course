@@ -115,7 +115,7 @@ The stage is yours!
 	* For the BCM project: assume you're speaking to an executive panel (the customer) in that session
 	* For the technical project: much more important than actual coding miracles is clearly showing & illustrating what you are trying to achieve, which steps you take, and what the desired outcome is (README.md). If you can make automated (parts!) of the CI/CD workflow happen, even better! Clone and adapt some of the examples from the course to get you started!
 
-* Submit into the 'Show and Tell' folder in LumiNUS by 8pm the night before the session:
+* Submit into the 'Show and Tell' folder in Canvas by 8pm the night before the session:
 	* a slide deck (PDF) – if you chose project (1)
 	* a text file that contains your name + a link to a public GitHub repo – if you chose project (2)
 * Get ready to present at the Show & Tell! In the interest of time we will use ONE laptop where we run all slides & projects from
